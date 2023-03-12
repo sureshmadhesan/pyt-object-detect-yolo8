@@ -1,0 +1,6 @@
+train: ./train
+val: ./val
+
+nc: 5
+
+names: ["helmet","jacket","shoe","glove","hat"]","
